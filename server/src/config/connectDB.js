@@ -1,7 +1,8 @@
 const { Sequelize } = require("sequelize");
-const sequelize = new Sequelize("StudentManagment", "root", "Quan02082001", {
-  host: "localhost",
+const sequelize = new Sequelize("by41szcksponu9frjnsy", "utla5g3t5dttzar7", "TxEKhMb9NUA1bZVHkV7t", {
+  host: "by41szcksponu9frjnsy-mysql.services.clever-cloud.com",
   dialect: "mysql",
+  port: 3306,
   logging: false,
 });
 let checkDB = async () => {

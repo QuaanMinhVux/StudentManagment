@@ -1,10 +1,11 @@
 {
   "development": {
-    "username": "root",
-    "password": "Quan02082001",
-    "database": "StudentManagment",
-    "host": "127.0.0.1",
+    "username": "utla5g3t5dttzar7",
+    "password": "TxEKhMb9NUA1bZVHkV7t",
+    "database": "by41szcksponu9frjnsy",
+    "host": "by41szcksponu9frjnsy-mysql.services.clever-cloud.com",
     "dialect": "mysql",
+    "port":3306,
     "logging": false
   },
   "test": {
